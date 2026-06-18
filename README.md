@@ -63,6 +63,13 @@ I am an **AI & Data Science undergraduate** with a strong foundation in Machine 
 
 ---
 
+# Resume & Portfolio
+
+- 📄 **Resume**: [Add your resume link here](https://example.com/resume)
+- 💼 **Portfolio**: [GitHub Projects](https://github.com/Vibin-007?tab=repositories)
+
+---
+
 # Contact
 <div>
 
@@ -74,3 +81,5 @@ I am an **AI & Data Science undergraduate** with a strong foundation in Machine 
   </a>
 
 </div>
+
+I’m open to internships and collaborations in AI, ML, and Data Science.
